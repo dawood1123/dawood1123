@@ -12,9 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawood1123&label=Profile%20views&color=0e75b6&style=flat" alt="dawood1123" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **JavaScript, CSS, HTML, Responsive designs**
+- 💬 Ask me about **React JS,JavaScript, CSS, HTML, Responsive designs**
 
 - 📫 How to reach me **davidkhan1226@gmail.com**
 
